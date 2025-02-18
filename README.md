@@ -1,0 +1,1 @@
+# shared-argo-cd-pipeline
